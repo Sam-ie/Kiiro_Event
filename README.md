@@ -1,2 +1,2 @@
 # Kiiro_Event
-The event system of Kirro Race.
+The event system of Kiiro Race.
