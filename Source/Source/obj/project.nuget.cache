@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOQsGFTFGB24t/mYxzJUIQhXa+rx6PPlk2hmIIJ9nGNrIUaUH2YsS2uKH23oMhVnzWtATXDWTHDZvwfAFRAH5w==",
+  "success": true,
+  "projectFilePath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Kiiro_Event\\Source\\Source\\Kiiro Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11634\\.nuget\\packages\\krafs.publicizer\\1.0.3\\krafs.publicizer.1.0.3.nupkg.sha512",
+    "C:\\Users\\11634\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3704\\krafs.rimworld.ref.1.4.3704.nupkg.sha512",
+    "C:\\Users\\11634\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\11634\\.nuget\\packages\\rimworld.multiplayerapi\\0.4.0\\rimworld.multiplayerapi.0.4.0.nupkg.sha512",
+    "C:\\Users\\11634\\.nuget\\packages\\unlimitedhugs.rimworld.hugslib\\10.0.1\\unlimitedhugs.rimworld.hugslib.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
