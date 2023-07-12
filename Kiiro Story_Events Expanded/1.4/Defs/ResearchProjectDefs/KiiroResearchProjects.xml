@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- 绮罗信箱 -->
+<ResearchProjectDef>
+	<defName>Kiiro_LetterBox</defName>
+	<label>绮罗信箱</label>
+	<description>研究并解锁绮罗信箱。信件是绮罗族常用的通信手段，在城镇中建立信箱以开通与绮罗族的联系。</description>
+	<baseCost>530</baseCost>
+	<techLevel>Medieval</techLevel>
+	<researchViewX>0</researchViewX>
+	<researchViewY>2.8</researchViewY>
+	<tab>Kiiro_ResearchTab</tab>
+</ResearchProjectDef>
+
+</Defs>

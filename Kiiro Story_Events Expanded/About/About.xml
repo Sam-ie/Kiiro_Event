@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Kiiro Story: Events Expanded</name>
+	<author>Alfie Brook, Ancot</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>。</description>
+	<packageId>Ancot.KiiroStoryEventsExpanded</packageId>
+	<modDependencies>
+		<li> 
+			<packageId>Ancot.KiiroRace</packageId>
+			<displayName>Kiiro Race</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>	
+		<li>Ancot.KiiroRace</li>
+	</loadAfter>
+
+</ModMetaData>

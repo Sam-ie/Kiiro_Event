@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>Kiiro_LetterBox</defName>
+    <label>绮罗信箱</label>
+    <description>用于和绮罗族交流的小小信箱。</description>
+    <graphicData>
+      <texPath>Kiiro/Building/CatmintCenser/CatmintCenser</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.8</drawSize>
+	  <drawOffset>(0,0,0.2)</drawOffset>
+      <shadowData>
+        <volume>(0.4, 0.7, 0.4)</volume>
+        <offset>(0.0, 0.0, -0.1)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0,0.75,1.0,0.5)</rect>
+      </damageData>
+    </graphicData>
+    <uiIconScale>0.85</uiIconScale>
+    <costList>
+      <Steel>45</Steel>
+    </costList>
+	<costStuffCount>120</costStuffCount>
+	<stuffCategories>
+		<li>Woody</li>
+	</stuffCategories>
+    <comps>
+    </comps>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Medium</destroySound>
+    </building>
+    <statBases>
+      <MarketValue>275</MarketValue>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+      <Beauty>15</Beauty>
+      <Mass>12</Mass>
+      <WorkToBuild>3600</WorkToBuild>
+    </statBases>
+    <fillPercent>0.2</fillPercent>
+    <pathCost>30</pathCost>
+    <passability>PassThroughOnly</passability>
+    <rotatable>true</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+	<defaultPlacingRot>South</defaultPlacingRot>
+    <interactionCellOffset>(0,0,1)</interactionCellOffset>
+    <hasInteractionCell>true</hasInteractionCell>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Misc</designationCategory>
+    <uiOrder>2110</uiOrder>
+	<thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <tradeability>Sellable</tradeability>
+    <tickerType>Normal</tickerType>
+	<drawerType>RealtimeOnly</drawerType>
+	<researchPrerequisites>
+		<li>Kiiro_LetterBox</li>
+	</researchPrerequisites>
+	<placeWorkers>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+  </ThingDef>
+
+
+
+</Defs>
