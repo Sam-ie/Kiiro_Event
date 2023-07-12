@@ -1,0 +1,6 @@
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Kiiro_Event\1.4\Assemblies\Kiiro_Event.dll
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Kiiro_Event\Source\Source\obj\Debug\Kiiro Event.csproj.AssemblyReference.cache
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Kiiro_Event\Source\Source\obj\Debug\Kiiro Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Kiiro_Event\Source\Source\obj\Debug\Kiiro Event.csproj.CoreCompileInputs.cache
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Kiiro_Event\Source\Source\obj\Debug\Kiiro Event.csproj.CopyComplete
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Kiiro_Event\Source\Source\obj\Debug\Kiiro_Event.dll

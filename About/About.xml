@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Kiiro_Event</name>
-  <author>Alfie Brook,Ancot</author>
+  <name>Kiiro Story: Events Expanded</name>
+  <author>Alfie Brook, Ancot</author>
   <url>https://github.com/Sam-ie/Kiiro_Event.git</url>
   <packageId>Alfie.kiiroevent</packageId>
   <!-- <forceLoadBefore>

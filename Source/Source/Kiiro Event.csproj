@@ -40,4 +40,9 @@
   <ItemGroup>
     <Publicize Include="Assembly-CSharp" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MYDE_Kiiro">
+      <HintPath>..\..\1.4\Assemblies\MYDE_Kiiro.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
