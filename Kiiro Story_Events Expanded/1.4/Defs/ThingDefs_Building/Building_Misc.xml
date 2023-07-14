@@ -6,9 +6,9 @@
     <label>绮罗信箱</label>
     <description>用于和绮罗族交流的小小信箱。</description>
     <graphicData>
-      <texPath>Kiiro/Building/CatmintCenser/CatmintCenser</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>1.8</drawSize>
+      <texPath>Kiiro_Event/Buildings/LetterBox</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>1.5</drawSize>
 	  <drawOffset>(0,0,0.2)</drawOffset>
       <shadowData>
         <volume>(0.4, 0.7, 0.4)</volume>
